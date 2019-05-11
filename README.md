@@ -1,2 +1,2 @@
 # Test
-Test Project
+Test Repository for Github commands demonstration.
